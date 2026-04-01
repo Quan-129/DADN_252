@@ -11,11 +11,11 @@
         "end_y": 3.0
     },
     "mesh": {
-        "mesh_source": "custom",
+        "mesh_source": "auto",
         
         "element_type": "quad",
-        "nx": 20,
-        "ny": 5,
+        "nx": 3,
+        "ny": 1,
         
         "data_file": "mesh_data.json",
         "shape_name": "dam_may_diem"
